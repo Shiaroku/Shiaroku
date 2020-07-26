@@ -3,7 +3,7 @@
 I am currently studying *Statistics* in Strasbourg's University (FR)  
 In September 2020 I will study *Bioinformatics and Computational biology* in Fribourg (CH)
 
-![](https://imgs.xkcd.com/comics/correlation.png)
+[![](https://imgs.xkcd.com/comics/correlation.png)](https://xkcd.com/552/)
 
 Sébastien MEYER
 ============
