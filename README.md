@@ -1,7 +1,9 @@
 ### Welcome to my Github profile 👋
 
-I am currently studying statistics in Strasbourg's University (FR)  
-In September 2020 I will study Bioinformatics and computational biology in Fribourg (CH)
+I am currently studying *Statistics* in Strasbourg's University (FR)  
+In September 2020 I will study *Bioinformatics and Computational biology* in Fribourg (CH)
+
+![](correlation.png)
 
 Sébastien MEYER
 ============
