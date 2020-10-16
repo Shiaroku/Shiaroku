@@ -1,7 +1,7 @@
 ### Welcome to my Github profile 👋
 
-I am currently studying *Statistics* in Strasbourg's University (FR)  
-In September 2020 I will study *Bioinformatics and Computational biology* in Fribourg (CH)
+I am studying *Bioinformatics and Computational biology* in Fribourg and Bern (CH)
+I previously studied *Statistics* in Strasbourg's University (FR)
 
 [![](https://imgs.xkcd.com/comics/correlation.png)](https://xkcd.com/552/)
 
@@ -12,18 +12,18 @@ Education
 ---------
 
 2020-2022 (expected)
-:   **M.Sc, Bioinformatics and Computational Biology**; Fribourg's University (CH)
+:   **M.Sc, Bioinformatics and Computational Biology**; Fribourg's University (home) and Bern's University (guest) (CH)
 
 [Presentation of the degree](http://studies.unifr.ch/fr/master/digitinf/bioinformatics)
 
 2018-2020
-:   **Master, Mathematics and applications : Statistics**; University of
+:   **Master, Mathematics and applications : Statistics (Final rank : 3/16)**; University of
     Strasbourg (FR)
 
 [Presentation of the degree](http://www.math.unistra.fr/MasterStat/)
     
 2015-2018
-:   **Double Bachelor, Mathematics and Economics**; University of
+:   **2 simulateously obtained Bachelors, one in Mathematics and one in Economics & Business Administration**; University of
     Strasbourg (FR)
 
 [Presentation of the degree](https://mathinfo.unistra.fr/formations/licence/double-licence-mathematiques-economie/)
