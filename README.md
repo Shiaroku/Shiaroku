@@ -1,6 +1,6 @@
 ### Welcome to my Github profile 👋
 
-On my way to become an actuary by getting a second Master's degree in Actuarial science (DUAS Strasbourg)  
+Fellow actuary from the French Institute of Actuaries  
 
 [![](https://imgs.xkcd.com/comics/correlation.png)](https://xkcd.com/552/)
 
